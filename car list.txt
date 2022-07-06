@@ -1,0 +1,129 @@
+INSERT INTO carlist VALUES (1001,"Land Cruiser","Toyota",2017,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1002,"Picanto","Kia",2015,"Hatch back",5,"Petrol");
+INSERT INTO carlist VALUES (1003,"Accent","Hyundai",2018,"Sedan",5,"Diesel");
+INSERT INTO carlist VALUES (1004,"Prado","Toyota",2015,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1005,"Aveo","Chevrolet",2019,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1006,"CX3","Mazda",2017,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1007,"Xtrail","Nissan",2017,"SUV",5,"Diesel");
+INSERT INTO carlist VALUES (1008,"Pathfinder","Nissan",2019,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1009,"Explorer","Ford",2017,"SUV",5,"Petrol");
+INSERT INTO carlist VALUES (1010,"G63","Mercedes",2017,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1011,"Model S","Tesla",2019"Sedan",5,"Electric");
+INSERT INTO carlist VALUES (1012,"Sunny","Nissan",2017,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1013,"Spark","Chevrolet",2012,"Hatch back",5,"Petrol");
+INSERT INTO carlist VALUES (1014,"Roadster","Tesla",2019,"Sport",4,"Electric");
+INSERT INTO carlist VALUES (1015,"Pajero","Mitsubishi",2016,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1016,"Yaris","Toyota",2017,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1017,"Model X","Tesla",2019,"SUV",5,"Electric");
+INSERT INTO carlist VALUES (1018,"Lancer","Mitsubishi",2017,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1019,"Camaro","Chevrolet",2019,"Sport",5,"Diesel");
+INSERT INTO carlist VALUES (1020,"Aventador","Lamborghini",2018,"Sport",4,"Petrol");
+INSERT INTO carlist VALUES (1021,"Innova","Toyota",2017,"SUV",7,"Diesel");
+INSERT INTO carlist VALUES (1022,"Altima","Nissan",2015,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1023,"Corolla","Toyota",2017,"Sedan",5,"Petrol");
+
+INSERT INTO carlist VALUES (1024,"Q-7","Audi",2019,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1025,"Duster","Renault",2015,"SUV",5,"Diesel");
+INSERT INTO carlist VALUES (1026,"Talisman","Renault",2019,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1027,"Captur","Renault",2017,"Sedan",5,"Diesel");
+INSERT INTO carlist VALUES (1028,"Q-5","Audi",2018,"SUV",5,"Petrol");
+INSERT INTO carlist VALUES (1029,"QX-70","Infinity",2018,"SUV",5,"Petrol");
+INSERT INTO carlist VALUES (1030,"QX-80","Infinity",2018,"SUV",7,"Petrol");
+INSERT INTO carlist VALUES (1031,"Q-50","Infinity",2019,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1032,"330i - Series 3","BMW",2018,"Sedan",5,"Petrol");
+INSERT INTO carlist VALUES (1033,"Series 5-DOOR","BMW",2018,"SUV",5,"Petrol");
+
+
+
+INSERT INTO cardeals VALUES (1001,"Toyota Land Cruiser","A",650,3500,8000,2000);
+INSERT INTO cardeals VALUES (1002,"Kia Picanto","A",65,400,1300,1000);
+INSERT INTO cardeals VALUES (1003,"Hyundai Accent","A",70,450,1500,1000);
+INSERT INTO cardeals VALUES (1004,"Toyota Prado","A"300,2100,4900,2000);
+INSERT INTO cardeals VALUES (1005,"Chevrolet Aveo","A",75,480,1550,1000);
+INSERT INTO cardeals VALUES (1006,"Mazda CX3","A",105,700,2499,1100);
+INSERT INTO cardeals VALUES (1007,"Nissan Xtrail","A",245,1700,3430,2000);
+INSERT INTO cardeals VALUES (1008,"Nissan Pathfinder","A",200,1700,4200,1500);
+INSERT INTO cardeals VALUES (1009,"Ford Explorer","A",450,2000,4500,2500);
+INSERT INTO cardeals VALUES (1010,"Mercedes G63","A",1900,9000,30000,2000);
+INSERT INTO cardeals VALUES (1011,"Tesla Model S","A",700,4000,10000,4500);
+INSERT INTO cardeals VALUES (1012,"Nissan Sunny","A",65,400,1300,1000);
+INSERT INTO cardeals VALUES (1013,"Chevrolet Spark","A",65,400,1300,1000);
+INSERT INTO cardeals VALUES (1014,"Tesla Roadster","A",1500,8000,30000,4500);
+INSERT INTO cardeals VALUES (1015,"Mitsubishi Pajero","A",200,850,1300,1000);
+INSERT INTO cardeals VALUES (1016,"Toyota Yaris","A",65,400,1300,1000);
+INSERT INTO cardeals VALUES (1017,"Tesla Model X","A",950,6000,14000,4500);
+INSERT INTO cardeals VALUES (1018,"Mitsubishi Lancer","A",75,450,1350,1000);
+INSERT INTO cardeals VALUES (1019,"Chevrolet Camaro","A",300,2100,4900,2000);
+INSERT INTO cardeals VALUES (1020,"Lamborghini Aventador","A",5500,38000,90800,2000);
+INSERT INTO cardeals VALUES (1021,"Toyota Innova","A",250,1900,4500,2000);
+INSERT INTO cardeals VALUES (1022,"Nissan Altima","A",170,1050,2150,1000);
+INSERT INTO cardeals VALUES (1023,"Toyota Corolla","A",185,1200,2200,1000);
+
+INSERT INTO cardeals VALUES (1024,"Audi Q-7","A",650,4200,8500,2500);
+INSERT INTO cardeals VALUES (1025,"Renault Duster","A",350,2000,5000,1500);
+INSERT INTO cardeals VALUES (1026,"Renault Talisman","A",250,1500,4000,1000);
+INSERT INTO cardeals VALUES (1027,"Renault Captur","A",350,2000,3500,1000);
+INSERT INTO cardeals VALUES (1028,"Audi Q-5","A",550,3800,6800,2000);
+INSERT INTO cardeals VALUES (1029,"Infinity QX-70","A",500,2000,5200,1500);
+INSERT INTO cardeals VALUES (1030,"Infinity QX-80","A",850,5000,10000,2000);
+INSERT INTO cardeals VALUES (1031,"Infinity Q-50","A",450,2000,5000,1000);
+INSERT INTO cardeals VALUES (1032,"BMW 330i - Series 3","A",500,2000,5200,2000);
+INSERT INTO cardeals VALUES (1033,"BMW Series 5-DOOR","A",650,4200,8500,2500);
+
+create table car_list(
+Car_ID INT(4),
+Car varchar(20),
+Brand varchar(20),
+Model INT(4),
+Type varchar(20),
+Capacity INT(1),
+Fuel varchar(10)
+);
+
+create table cardeals(
+Car_ID INT(4),
+Car varchar(100),
+Availability varchar(2),
+Cost INT(5),
+cost_w INT(5),
+cost_m INT(6),
+Deposit INT(5)
+);
+
+create table random(
+Category varchar(20),
+cond_ varchar(5),
+Fuel varchar(15)
+);
+
+Insert into random VALUES("Hatch back","i","Petrol");
+Insert into random VALUES("Sedan","i","Diesel");
+Insert into random VALUES("SUV","i","Electric");
+Insert into random VALUES("Sport","i","m");
+
+create table random_1(
+Brand varchar(50),
+cond_ varchar(5)
+);
+
+create table random_2(
+Car_ID varchar(50),
+cond_ varchar(5)
+);
+
+create table client(
+c_ID int(10),
+c_name varchar(100),
+c_age int(3),
+c_email varchar(100),
+c_contact int(10),
+c_car varchar(100),
+c_DOI DATE,
+c_DOR DATE,
+c_card int(20),
+c_passport int(20),
+);
+
+
+
+insert into client VALUES(1000,'Sahel',18,'mt56',3982748,'ueid',20/3/2002,20/3/4033,46,39)
